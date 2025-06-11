@@ -4,7 +4,7 @@ This project develops and deploys a deep learning model to classify images as ei
 This README provides links to project resources and instructions on how to run the deployed Streamlit application locally.
 
 ## Live Demo
-<img src="images/demo.gif">
+<img src="demo.gif">
 
 ### Important Project Links
 
