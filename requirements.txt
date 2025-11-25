@@ -1,0 +1,4 @@
+streamlit==1.51.0
+tensorflow==2.15.0  # **CRITICAL: Verify this version matches your local environment**
+numpy
+Pillow
