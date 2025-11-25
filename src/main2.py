@@ -234,7 +234,6 @@ with st.sidebar:
     We developed this model thinking of the possible future consequences that we will be facing with Gen-AI. 
     As synthetic media becomes indistinguishable from reality, the need for automated verification tools is critical.
     
-    This project leverages **ResNet50** to identify subtle digital artifacts that human eyes often miss.
     """)
     
     st.markdown("---")
