@@ -1,4 +1,4 @@
-# 🕵️ AI Generated vs. Real Image Classification
+# AI Generated vs. Real Image Classification
 
 [![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/iav2002/AI_Image_detector)
 
@@ -18,7 +18,7 @@ The application is deployed and running live on Hugging Face Spaces. This is the
 
 ![App Demo GIF](demo.gif)
 
-## 💡 Project Overview
+## Project Overview
 
 This project leverages a **ResNet50 based Deep Learning model** to address the growing challenge of synthetic media. It detects minute digital artefacts to classify an image as either **Real (Organic)** or **AI Generated (Fake)**.
 
@@ -30,7 +30,7 @@ This project leverages a **ResNet50 based Deep Learning model** to address the g
 * **Real time Analysis:** Provides instant classification with confidence scores.
 * **User Friendly Interface:** Built with Streamlit for accessible usage.
 
-## 💻 Local Setup and Execution
+## Local Setup and Execution
 
 Follow these steps to run the application on your local machine.
 
