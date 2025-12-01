@@ -11,7 +11,7 @@
 
 The application is deployed and running live on Hugging Face Spaces. This is the fastest way to test the model using our sample images or your own uploads.
 
-**[Click here to try the Live App](https://huggingface.co/spaces/iav2002/AI_Image_detector)**
+**[Click here to try the Live App](https://iav2002-ai-image-detector.hf.space/)**
 
 ### App Preview
 
