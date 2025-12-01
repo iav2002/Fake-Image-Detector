@@ -1,7 +1,6 @@
 # AI Generated vs. Real Image Classification
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://huggingface.co/spaces/iav2002/AI_Image_detector)
-
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-blue)](https://iav2002-ai-image-detector.hf.space/) 
 ## 👥 Authors
 
 * **Ignacio Alarcon** [LinkedIn](https://www.linkedin.com/in/ignacioalarcon/)
